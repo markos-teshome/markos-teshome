@@ -172,7 +172,7 @@ https://www.instagram.com/zeanbesa7066
 
 📧 Email
 
-your-email@example.com
+zeanbesa7066@gmail.com
 
 ---
 
