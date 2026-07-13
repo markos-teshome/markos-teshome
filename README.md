@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Markos Teshome Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Markos Teshome</h1>
 
 <h3 align="center">
