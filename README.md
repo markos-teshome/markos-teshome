@@ -11,173 +11,67 @@ Full-Stack Software Engineer | Django & React Developer | Flutter Developer | AI
 Building scalable web applications, mobile apps, and intelligent software solutions.
 </p>
 
+<p align="center">
+  <a href="https://markos-portfolioo.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/markos-teshome-40b061336">💼 LinkedIn</a> •
+  <a href="https://x.com/MarkosTesh25364">🐦 X</a> •
+  <a href="https://www.instagram.com/zeanbesa7066">📷 Instagram</a> •
+  <a href="mailto:zeanbesa7066@gmail.com">📧 Email</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Sc. in Software Engineering
+🎓 B.Sc. in Software Engineering &nbsp;|&nbsp; 📍 Bahir Dar, Ethiopia
 
-💼 Full-Stack Software Engineer
+I build full-stack web and mobile applications with Django, React, and Flutter, with a strong interest in backend engineering, cloud computing, system design, and AI/ML.
 
-📱 Flutter Mobile Application Developer
-
-🌐 Django & React Developer
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🚀 Interested in Backend Engineering, Cloud Computing, and System Design
-
-🌱 Currently learning **Next.js, Docker, Kubernetes, AWS, and CI/CD**
-
-📍 Bahir Dar, Ethiopia
+🌱 **Currently learning:** Next.js, Docker, Kubernetes, AWS, CI/CD, Microservices
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-- Python
-- JavaScript
-- TypeScript
-- Dart
-- HTML5
-- CSS3
-- SQL
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Material UI
-
-### Backend
-
-- Django
-- Django REST Framework
-- REST APIs
-- JWT Authentication
-
-### Mobile
-
-- Flutter
-
-### Database
-
-- PostgreSQL
-- SQLite
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Figma
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, JavaScript, TypeScript, Dart, SQL, HTML5, CSS3 |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Material UI |
+| **Backend** | Django, Django REST Framework, REST APIs, JWT Authentication |
+| **Mobile** | Flutter |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Tools** | Git, GitHub, Docker, Postman, Figma, VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚦 Road Traffic Control System
+**🚦 Road Traffic Control System**
+Traffic management platform for the Amhara Regional Traffic Authority: driver and vehicle verification, citation management, digital payments, admin dashboard, REST API, and mobile app.
+`Django` `DRF` `React` `Flutter` `PostgreSQL`
 
-A complete traffic management platform developed for the Amhara Regional Traffic Authority.
+**🎓 Ethiopics Global University**
+Online education platform connecting Ethiopian tutors with language learners worldwide.
 
-**Features**
+**📒 React Django Notes App**
+Full-stack notes application built with React, Django REST Framework, and PostgreSQL.
 
-- Driver & Vehicle Verification
-- Citation Management
-- Digital Payment Integration
-- Admin Dashboard
-- Mobile Application
-- REST API
-
-**Tech Stack**
-
-Django • DRF • React • Flutter • PostgreSQL
+**📝 Django Blog API**
+RESTful blogging platform with authentication, CRUD operations, and modern API architecture.
 
 ---
 
-### 📝 Django Blog API
+## 💼 Experience
 
-A RESTful blogging platform with authentication, CRUD operations, and modern API architecture.
-
----
-
-### 📒 React Django Notes App
-
-A Full-Stack Notes Application built using React, Django REST Framework, and PostgreSQL.
-
----
-
-### 🎓 Ethiopics Global University
-
-An online education platform connecting Ethiopian tutors with language learners worldwide.
-
----
-
-## 💼 Professional Experience
-
-**Software Engineer**
-
-Doctor Nega Education Center
-
-- Developed educational software solutions
-- Built responsive web applications
-- Collaborated with development teams
-- Maintained backend APIs
-
----
-
-## 📚 Currently Learning
-
-- Advanced Django
-- Next.js
-- Docker
-- Kubernetes
-- AWS Cloud
-- System Design
-- Microservices
+**Software Engineer** — Doctor Nega Education Center
+Developed educational software and responsive web applications, maintained backend APIs, and collaborated with development teams.
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build scalable SaaS applications
-- Contribute to Open Source
-- Earn AWS Cloud Certification
-- Master DevOps Practices
-- Publish high-quality software projects
+Build scalable SaaS applications • Contribute to open source • Earn AWS Cloud Certification • Master DevOps practices
 
 ---
 
-## 🤝 Let's Connect
-
-🌐 Portfolio
-
-https://markos-portfolioo.netlify.app
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/markos-teshome-40b061336
-
-🐦 X (Twitter)
-
-https://x.com/MarkosTesh25364
-
-📷 Instagram
-
-https://www.instagram.com/zeanbesa7066
-
-📧 Email
-
-zeanbesa7066@gmail.com
-
----
-
-⭐ *"Code with purpose. Build solutions that create impact."*
-      please make sure   concsise and not too loo long just priofesstiona give the profestion preise reamd me for me
+<p align="center"><i>"Code with purpose. Build solutions that create impact."</i></p>
